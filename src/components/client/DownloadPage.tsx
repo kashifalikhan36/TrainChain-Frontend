@@ -28,7 +28,7 @@ export function DownloadPage({ onNavigate }: DownloadPageProps) {
         <div className="max-w-7xl mx-auto pb-12 px-4 sm:px-6 lg:px-8">
           <div className="bg-white rounded-lg shadow px-5 py-6 sm:px-6">
             <div className="text-center mb-12">
-              <h1 className="text-4xl font-bold text-gray-900 mb-4">Download DecentralAI Client</h1>
+              <h1 className="text-4xl font-bold text-gray-900 mb-4">Download TrainChain Client</h1>
               <p className="text-lg text-gray-600">Start earning by contributing your computing power to AI training</p>
             </div>
 

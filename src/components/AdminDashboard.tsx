@@ -197,7 +197,7 @@ export function AdminDashboard() {
         <nav className="border-b border-indigo-500 border-opacity-25 bg-indigo-600">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="h-16 flex items-center justify-between">
-              <div className="text-white text-xl font-bold">DecentralAI Admin</div>
+              <div className="text-white text-xl font-bold">TrainChain Admin</div>
             </div>
           </div>
         </nav>

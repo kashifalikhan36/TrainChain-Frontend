@@ -14,7 +14,7 @@ export function LandingPage({ onAuthClick }: LandingPageProps) {
           <div className="flex justify-between items-center h-20">
             <div className="flex items-center">
               <Cloud className="h-8 w-8 text-indigo-500" />
-              <span className="ml-2 text-2xl font-bold text-white">DecentralAI</span>
+              <span className="ml-2 text-2xl font-bold text-white">TrainChain</span>
             </div>
             <button
               onClick={onAuthClick}
@@ -57,7 +57,7 @@ export function LandingPage({ onAuthClick }: LandingPageProps) {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2 className="text-3xl font-extrabold text-white sm:text-4xl">
-              Why Choose DecentralAI?
+              Why Choose TrainChain?
             </h2>
             <p className="mt-4 text-xl text-gray-400">
               Experience the next generation of distributed computing

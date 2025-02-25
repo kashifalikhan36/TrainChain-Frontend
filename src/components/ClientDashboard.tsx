@@ -64,7 +64,7 @@ export function ClientDashboard({ onNavigate }: ClientDashboardProps) {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="h-16 flex items-center justify-between">
               <div className="flex items-center space-x-8">
-                <div className="text-white text-xl font-bold">DecentralAI Client</div>
+                <div className="text-white text-xl font-bold">TrainChain Client</div>
                 <div className="hidden md:flex space-x-4">
                   <button
                     onClick={() => onNavigate('download')}

@@ -108,7 +108,7 @@ export function HelpAndApiPage({ onNavigate }: HelpAndApiPageProps) {
               <h3 className="text-lg font-semibold mb-4">Popular Articles</h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div className="bg-white p-4 rounded-lg">
-                  <h4 className="font-medium mb-2">Getting Started with DecentralAI</h4>
+                  <h4 className="font-medium mb-2">Getting Started with TrainChain</h4>
                   <p className="text-gray-600 text-sm">Learn how to set up your environment and start contributing...</p>
                 </div>
                 <div className="bg-white p-4 rounded-lg">

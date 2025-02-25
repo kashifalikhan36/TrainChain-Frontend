@@ -76,16 +76,16 @@ export function DocumentationPage({ onNavigate }: DocumentationPageProps) {
               <div className="col-span-9 p-8">
                 {activeSection === 'getting-started' && (
                   <div className="space-y-6">
-                    <h1 className="text-3xl font-bold text-gray-900">Getting Started with DecentralAI</h1>
+                    <h1 className="text-3xl font-bold text-gray-900">Getting Started with TrainChain</h1>
                     <p className="text-gray-600">
-                      Welcome to DecentralAI! This guide will help you get started with our platform
+                      Welcome to TrainChain! This guide will help you get started with our platform
                       and show you how to make the most of your computing resources.
                     </p>
                     
                     <div className="prose max-w-none">
                       <h2 className="text-xl font-semibold mt-8 mb-4">Quick Start Guide</h2>
                       <ol className="list-decimal list-inside space-y-4">
-                        <li className="text-gray-800">Download and install the DecentralAI client</li>
+                        <li className="text-gray-800">Download and install the TrainChain client</li>
                         <li className="text-gray-800">Configure your system settings</li>
                         <li className="text-gray-800">Connect your GPU resources</li>
                         <li className="text-gray-800">Start earning rewards</li>
@@ -118,7 +118,7 @@ export function DocumentationPage({ onNavigate }: DocumentationPageProps) {
                       <pre className="overflow-x-auto">
                         <code>{`
 // Example API Usage
-const client = new DecentralAI({
+const client = new TrainChain({
   apiKey: 'your-api-key',
   endpoint: 'https://api.decentral.ai'
 });

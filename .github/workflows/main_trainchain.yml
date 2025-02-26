@@ -70,5 +70,5 @@ jobs:
         with:
           app-name: 'TrainChain'
           slot-name: 'Production'
-          package: .
+          package: ./dist
           
